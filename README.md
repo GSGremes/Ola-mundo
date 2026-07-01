@@ -1,2 +1,4 @@
-# Ola-mundo
-primeiro Repositorio curso git github
+# Olá, mundo!
+Primeiro Repositorio curso git github
+
+Utilizando GitHub Desktop
