@@ -1,4 +1,4 @@
 # Olá, mundo!
-Primeiro Repositorio curso git github
+Primeiro *Repositorio* curso git github
 
-Utilizando GitHub Desktop
+Utilizando **GitHub Desktop**
