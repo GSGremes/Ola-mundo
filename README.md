@@ -53,7 +53,7 @@ Fim da tabela
 ### Como mostrar um código:
 
 ```
-num = int(input('Digite um valor: ')
+num = int(input('Digite um valor: '))
 if num % 2 = = 0:
   print(f'O valor {num} é PAR')
 else:
